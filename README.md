@@ -1,13 +1,12 @@
 # P3-de-IA-Usando-LTNTorch-para-solucionar-o-Sudoku-
 
 ### INTELIGENCIA ARTIFICAL 2025/01
-
-### GRUPO:
-### Gabrielly Ferreira Rodrigues - 22152262
-### Gilmar Eduardo Costa do Couto Júnior - 22152247
-### Jessica de Figueredo Colares - 22060036
-### Lucas Vinícius Gonçalves Gadelha - 22050517
-### Luís Eduardo Bentes Negreiros - 22251141
+GRUPO:
+Gabrielly Ferreira Rodrigues - 22152262
+Gilmar Eduardo Costa do Couto Júnior - 22152247
+Jessica de Figueredo Colares - 22060036
+Lucas Vinícius Gonçalves Gadelha - 22050517
+Luís Eduardo Bentes Negreiros - 22251141
 
 
 ## ATENÇAO!!!
