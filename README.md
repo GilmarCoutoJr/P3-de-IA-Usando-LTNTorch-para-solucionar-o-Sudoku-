@@ -1,0 +1,1 @@
+# P3-de-IA-Usando-LTNTorch-para-solucionar-o-Sudoku-
