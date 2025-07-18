@@ -16,9 +16,9 @@ Luís Eduardo Bentes Negreiros - 22251141
 
 ## ATENÇAO!!!
 Instalar as seguintes dependências, basta copiar e colar cada uma delas no terminal:
-    1. pip install LTNTorch
-    2. pip install scikit-learn
-    2. pip install numpy
+1. pip install LTNTorch
+2. pip install scikit-learn
+3. pip install numpy
 
 ## Passo a Passo:
     1. iniciei o treino da máquina
