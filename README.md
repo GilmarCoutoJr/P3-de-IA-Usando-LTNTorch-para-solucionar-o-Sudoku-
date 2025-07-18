@@ -9,6 +9,7 @@
 ### Lucas Vinícius Gonçalves Gadelha - 22050517
 ### Luís Eduardo Bentes Negreiros - 22251141
 
+
 ## ATENÇAO!!!
 Instalar as seguintes dependências, basta copiar e colar cada uma delas no terminal:
     pip install LTNTorch
