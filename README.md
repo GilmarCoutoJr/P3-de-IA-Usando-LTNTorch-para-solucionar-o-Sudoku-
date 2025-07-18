@@ -1,6 +1,5 @@
 # P3-de-IA-Usando-LTNTorch-para-solucionar-o-Sudoku-
 
-## =========================
 ### INTELIGENCIA ARTIFICAL 2025/01
 
 ### GRUPO:
@@ -9,8 +8,6 @@
 ### Jessica de Figueredo Colares - 22060036
 ### Lucas Vinícius Gonçalves Gadelha - 22050517
 ### Luís Eduardo Bentes Negreiros - 22251141
-## =========================
-
 
 ## ATENÇAO!!!
 Instalar as seguintes dependências, basta copiar e colar cada uma delas no terminal:
